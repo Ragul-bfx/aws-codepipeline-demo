@@ -15,7 +15,7 @@ const Button = styled.button`
   user-select: none;
 
   &:hover {
-    background-color: #333333;
+    background-color: #660000;
     cursor: pointer;
   }
 `;
