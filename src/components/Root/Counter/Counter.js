@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const Button = styled.button`
   appearance: none;
-  background-color: #660000;
+  background-color: #006600;
   border: 0;
   border-radius: 0.25em;
   color: white;
